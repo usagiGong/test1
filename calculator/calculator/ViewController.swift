@@ -41,7 +41,7 @@ class ViewController: UIViewController {
 //        btn.addTarget(self, action: #selector(btnclick), for: .touchUpInside)
         
         let num3 = 10
-        
+        let num4 :String
         
         
     }
