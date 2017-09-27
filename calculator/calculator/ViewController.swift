@@ -35,10 +35,10 @@ class ViewController: UIViewController {
         num2.placeholder = "num2"
         view.addSubview(num2)
         
-        let btn = UIButton(type: .custom)
-        btn.frame = CGRect(x: 100, y: 200, width: 100, height: 100)
-        btn.setTitle("按钮", for: .normal)
-        btn.addTarget(self, action: #selector(btnclick), for: .touchUpInside)
+//        let btn = UIButton(type: .custom)
+//        btn.frame = CGRect(x: 100, y: 200, width: 100, height: 100)
+//        btn.setTitle("按钮", for: .normal)
+//        btn.addTarget(self, action: #selector(btnclick), for: .touchUpInside)
         
         
         
