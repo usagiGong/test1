@@ -40,7 +40,7 @@ class ViewController: UIViewController {
 //        btn.setTitle("按钮", for: .normal)
 //        btn.addTarget(self, action: #selector(btnclick), for: .touchUpInside)
         
-        
+        let num3 = 10
         
         
         
